@@ -16,7 +16,7 @@ Used various cables to connect devices together
 
 ## Topology
 
-<img width="2018" height="966" alt="Image" src="https://github.com/user-attachments/assets/98b622f6-2189-4253-9c2a-ef131b9307e9" />
+<img width="1417" height="363" alt="Image" src="https://github.com/user-attachments/assets/da7508e8-3851-4682-a497-40c451c551ad" />
 
 **New York:** 2 PCs → Switch → Router → Firewall
 **Tokyo:** Firewall → Router → Switch → 2 Servers
