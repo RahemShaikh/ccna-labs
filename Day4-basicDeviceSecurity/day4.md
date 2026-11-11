@@ -2,7 +2,7 @@
 
 ## Overview
 
-Use the CLI to configure devices in particular the passwords  
+Use the CLI to change permission space, add and encrypt passwords/secrets, and saving configurations 
 
 **Includes:** 1 switch, 1 router, 3 PCs
 
