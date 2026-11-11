@@ -36,10 +36,10 @@ Configure IP Addresses on Router and PCs
 ## Commands Used
 
 * ```hostname```: Rename generic router to R1  
-* ```show ip interface brief``: Display the IP Table 
-* ```interface``: Switch to the specified interface for configuration 
+* ```show ip interface brief```: Display the IP Table 
+* ```interface```: Switch to the specified interface for configuration 
 * ```ip address```: Manually make an entry of the ip address and subnet mask
-* ```description``: Add comments to a specific interface
+* ```description```: Add comments to a specific interface
 * ```no shutdown```: Enable an interface
 * ```write```: Save the running config
 * ```ping```: Connectivity test
